@@ -1,0 +1,85 @@
+# Forever Young — Generative Engine Optimization Map
+
+> A יופי ובריאות business.
+
+---
+
+## Pages
+
+### Home
+https://forever-young-2f3529d6.zappy5.app
+
+### About
+https://forever-young-2f3529d6.zappy5.app/about
+
+### Ritual
+https://forever-young-2f3529d6.zappy5.app/ritual
+
+### Contact
+https://forever-young-2f3529d6.zappy5.app/contact
+
+### Products
+https://forever-young-2f3529d6.zappy5.app/products
+המוצרים שלנו - Forever Young
+
+### Cart
+https://forever-young-2f3529d6.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://forever-young-2f3529d6.zappy5.app/checkout
+תשלום
+
+### Login
+https://forever-young-2f3529d6.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://forever-young-2f3529d6.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://forever-young-2f3529d6.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://forever-young-2f3529d6.zappy5.app/product/:slug
+פרטי המוצר - Forever Young
+
+### Category
+https://forever-young-2f3529d6.zappy5.app/category/:slug
+מוצרים - Forever Young
+
+## Legal & Policy
+
+### Privacy Policy
+https://forever-young-2f3529d6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://forever-young-2f3529d6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://forever-young-2f3529d6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Forever Young
+Forever Young is a business in the יופי ובריאות industry.
+
+## Target Audience
+לקוחות המחפשים פתרונות אנטי אייג'ינג פרימיום ומותאמים אישית
+
+## Industry
+יופי ובריאות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://forever-young-2f3529d6.zappy5.app/sitemap.xml
+- **Robots.txt**: https://forever-young-2f3529d6.zappy5.app/robots.txt
